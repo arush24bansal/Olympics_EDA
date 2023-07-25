@@ -1,0 +1,223 @@
+committee,region,Historical
+AFG,Afghanistan,FALSE
+AHO,Netherlands Antilles,TRUE
+ALB,Albania,FALSE
+ALG,Algeria,FALSE
+AND,Andorra,FALSE
+ANG,Angola,FALSE
+ANT,Antigua,FALSE
+ANZ,Australasia,TRUE
+ARG,Argentina,FALSE
+ARM,Armenia,FALSE
+ARU,Aruba,FALSE
+ASA,American Samoa,FALSE
+AUS,Australia,FALSE
+AUT,Austria,FALSE
+AZE,Azerbaijan,FALSE
+BAH,Bahamas,FALSE
+BAN,Bangladesh,FALSE
+BAR,Barbados,FALSE
+BDI,Burundi,FALSE
+BEL,Belgium,FALSE
+BEN,Benin,FALSE
+BER,Bermuda,FALSE
+BHU,Bhutan,FALSE
+BIH,Bosnia and Herzegovina,FALSE
+BIZ,Belize,FALSE
+BLR,Belarus,FALSE
+BOH,Bohemia,TRUE
+BOL,Boliva,FALSE
+BOT,Botswana,FALSE
+BRA,Brazil,FALSE
+BRN,Bahrain,FALSE
+BRU,Brunei,FALSE
+BUL,Bulgaria,FALSE
+BUR,Burkina Faso,FALSE
+CAF,Central African Republic,FALSE
+CAM,Cambodia,FALSE
+CAN,Canada,FALSE
+CAY,Cayman Islands,FALSE
+CGO,Republic of Congo,FALSE
+CHA,Chad,FALSE
+CHI,Chile,FALSE
+CHN,China,FALSE
+CIV,Ivory Coast,FALSE
+CMR,Cameroon,FALSE
+COD,Democratic Republic of the Congo,FALSE
+COK,Cook Islands,FALSE
+COL,Colombia,FALSE
+COM,Comoros,FALSE
+CPV,Cape Verde,FALSE
+CRC,Costa Rica,FALSE
+CRO,Croatia,FALSE
+CRT,Greece,FALSE
+CUB,Cuba,FALSE
+CYP,Cyprus,FALSE
+CZE,Czech Republic,FALSE
+DEN,Denmark,FALSE
+DJI,Djibouti,FALSE
+DMA,Dominica,FALSE
+DOM,Dominican Republic,FALSE
+ECU,Ecuador,FALSE
+EGY,Egypt,FALSE
+ERI,Eritrea,FALSE
+ESA,El Salvador,FALSE
+ESP,Spain,FALSE
+EST,Estonia,FALSE
+ETH,Ethiopia,FALSE
+EUN,Unified Team,TRUE
+FIJ,Fiji,FALSE
+FIN,Finland,FALSE
+FRA,France,FALSE
+FRG,West Germany,TRUE
+FSM,Micronesia,FALSE
+GAB,Gabon,FALSE
+GAM,Gambia,FALSE
+GBR,UK,FALSE
+GBS,Guinea-Bissau,FALSE
+GDR,East Germany,TRUE
+GEO,Georgia,FALSE
+GEQ,Equatorial Guinea,FALSE
+GER,Germany,FALSE
+GHA,Ghana,FALSE
+GRE,Greece,FALSE
+GRN,Grenada,FALSE
+GUA,Guatemala,FALSE
+GUM,Guam,FALSE
+GUY,Guyana,FALSE
+HAI,Haiti,FALSE
+HKG,China,FALSE
+HON,Honduras,FALSE
+HUN,Hungary,FALSE
+INA,Indonesia,FALSE
+IND,India,FALSE
+IOA,Individual Olympic Athletes,FALSE
+IRI,Iran,FALSE
+IRL,Ireland,FALSE
+IRQ,Iraq,FALSE
+ISL,Iceland,FALSE
+ISR,Israel,FALSE
+ISV,"Virgin Islands, US",FALSE
+ITA,Italy,FALSE
+IVB,"Virgin Islands, British",FALSE
+JAM,Jamaica,FALSE
+JOR,Jordan,FALSE
+JPN,Japan,FALSE
+KAZ,Kazakhstan,FALSE
+KEN,Kenya,FALSE
+KGZ,Kyrgyzstan,FALSE
+KIR,Kiribati,FALSE
+KOR,South Korea,FALSE
+KOS,Kosovo,FALSE
+KSA,Saudi Arabia,FALSE
+KUW,Kuwait,FALSE
+LAO,Laos,FALSE
+LAT,Latvia,FALSE
+LBA,Libya,FALSE
+LBR,Liberia,FALSE
+LCA,Saint Lucia,FALSE
+LES,Lesotho,FALSE
+LIB,Lebanon,FALSE
+LIE,Liechtenstein,FALSE
+LTU,Lithuania,FALSE
+LUX,Luxembourg,FALSE
+MAD,Madagascar,FALSE
+MAR,Morocco,FALSE
+MAS,Malaysia,FALSE
+MAW,Malawi,FALSE
+MDA,Moldova,FALSE
+MDV,Maldives,FALSE
+MEX,Mexico,FALSE
+MGL,Mongolia,FALSE
+MHL,Marshall Islands,FALSE
+MKD,Macedonia,FALSE
+MLI,Mali,FALSE
+MLT,Malta,FALSE
+MNE,Montenegro,FALSE
+MON,Monaco,FALSE
+MOZ,Mozambique,FALSE
+MRI,Mauritius,FALSE
+MTN,Mauritania,FALSE
+MYA,Myanmar,FALSE
+NAM,Namibia,FALSE
+NCA,Nicaragua,FALSE
+NED,Netherlands,FALSE
+NEP,Nepal,FALSE
+NFL,Canada,FALSE
+NGR,Nigeria,FALSE
+NIG,Niger,FALSE
+NOR,Norway,FALSE
+NRU,Nauru,FALSE
+NZL,New Zealand,FALSE
+OMA,Oman,FALSE
+PAK,Pakistan,FALSE
+PAN,Panama,FALSE
+PAR,Paraguay,FALSE
+PER,Peru,FALSE
+PHI,Philippines,FALSE
+PLE,Palestine,FALSE
+PLW,Palau,FALSE
+PNG,Papua New Guinea,FALSE
+POL,Poland,FALSE
+POR,Portugal,FALSE
+PRK,North Korea,FALSE
+PUR,Puerto Rico,FALSE
+QAT,Qatar,FALSE
+ROT,Refugee Olympic Team,FALSE
+ROU,Romania,FALSE
+RSA,South Africa,FALSE
+RUS,Russia,FALSE
+RWA,Rwanda,FALSE
+SAM,Samoa,FALSE
+SCG,Serbia and Montenegro,TRUE
+SEN,Senegal,FALSE
+SEY,Seychelles,FALSE
+SIN,Singapore,FALSE
+SKN,Saint Kitts,FALSE
+SLE,Sierra Leone,FALSE
+SLO,Slovenia,FALSE
+SMR,San Marino,FALSE
+SOL,Solomon Islands,FALSE
+SOM,Somalia,FALSE
+SRB,Serbia,FALSE
+SRI,Sri Lanka,FALSE
+SSD,South Sudan,FALSE
+STP,Sao Tome and Principe,FALSE
+SUD,Sudan,FALSE
+SUI,Switzerland,FALSE
+SUR,Suriname,FALSE
+SVK,Slovakia,FALSE
+SWE,Sweden,FALSE
+SWZ,Swaziland,FALSE
+SYR,Syria,FALSE
+TAN,Tanzania,FALSE
+TCH,Czechoslovakia,TRUE
+TGA,Tonga,FALSE
+THA,Thailand,FALSE
+TJK,Tajikistan,FALSE
+TKM,Turkmenistan,FALSE
+TLS,Timor-Leste,FALSE
+TOG,Togo,FALSE
+TPE,Taiwan,FALSE
+TTO,Trinidad,FALSE
+TUN,Tunisia,FALSE
+TUR,Turkey,FALSE
+TUV,Tuvalu,FALSE
+UAE,United Arab Emirates,FALSE
+UGA,Uganda,FALSE
+UKR,Ukraine,FALSE
+UNK,NA,FALSE
+URS,Soviet Union,TRUE
+URU,Uruguay,FALSE
+USA,USA,FALSE
+UZB,Uzbekistan,FALSE
+VAN,Vanuatu,FALSE
+VEN,Venezuela,FALSE
+VIE,Vietnam,FALSE
+VIN,Saint Vincent,FALSE
+VNM,South Vietnam,TRUE
+WIF,Trinidad,FALSE
+YEM,Yemen,FALSE
+YUG,Yugoslavia,TRUE
+ZAM,Zambia,FALSE
+ZIM,Zimbabwe,FALSE
