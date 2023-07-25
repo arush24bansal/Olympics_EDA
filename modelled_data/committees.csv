@@ -1,223 +1,223 @@
-committee,region,Historical
-AFG,Afghanistan,FALSE
-AHO,Netherlands Antilles,TRUE
-ALB,Albania,FALSE
-ALG,Algeria,FALSE
-AND,Andorra,FALSE
-ANG,Angola,FALSE
-ANT,Antigua,FALSE
-ANZ,Australasia,TRUE
-ARG,Argentina,FALSE
-ARM,Armenia,FALSE
-ARU,Aruba,FALSE
-ASA,American Samoa,FALSE
-AUS,Australia,FALSE
-AUT,Austria,FALSE
-AZE,Azerbaijan,FALSE
-BAH,Bahamas,FALSE
-BAN,Bangladesh,FALSE
-BAR,Barbados,FALSE
-BDI,Burundi,FALSE
-BEL,Belgium,FALSE
-BEN,Benin,FALSE
-BER,Bermuda,FALSE
-BHU,Bhutan,FALSE
-BIH,Bosnia and Herzegovina,FALSE
-BIZ,Belize,FALSE
-BLR,Belarus,FALSE
-BOH,Bohemia,TRUE
-BOL,Boliva,FALSE
-BOT,Botswana,FALSE
-BRA,Brazil,FALSE
-BRN,Bahrain,FALSE
-BRU,Brunei,FALSE
-BUL,Bulgaria,FALSE
-BUR,Burkina Faso,FALSE
-CAF,Central African Republic,FALSE
-CAM,Cambodia,FALSE
-CAN,Canada,FALSE
-CAY,Cayman Islands,FALSE
-CGO,Republic of Congo,FALSE
-CHA,Chad,FALSE
-CHI,Chile,FALSE
-CHN,China,FALSE
-CIV,Ivory Coast,FALSE
-CMR,Cameroon,FALSE
-COD,Democratic Republic of the Congo,FALSE
-COK,Cook Islands,FALSE
-COL,Colombia,FALSE
-COM,Comoros,FALSE
-CPV,Cape Verde,FALSE
-CRC,Costa Rica,FALSE
-CRO,Croatia,FALSE
-CRT,Greece,FALSE
-CUB,Cuba,FALSE
-CYP,Cyprus,FALSE
-CZE,Czech Republic,FALSE
-DEN,Denmark,FALSE
-DJI,Djibouti,FALSE
-DMA,Dominica,FALSE
-DOM,Dominican Republic,FALSE
-ECU,Ecuador,FALSE
-EGY,Egypt,FALSE
-ERI,Eritrea,FALSE
-ESA,El Salvador,FALSE
-ESP,Spain,FALSE
-EST,Estonia,FALSE
-ETH,Ethiopia,FALSE
-EUN,Unified Team,TRUE
-FIJ,Fiji,FALSE
-FIN,Finland,FALSE
-FRA,France,FALSE
-FRG,West Germany,TRUE
-FSM,Micronesia,FALSE
-GAB,Gabon,FALSE
-GAM,Gambia,FALSE
-GBR,UK,FALSE
-GBS,Guinea-Bissau,FALSE
-GDR,East Germany,TRUE
-GEO,Georgia,FALSE
-GEQ,Equatorial Guinea,FALSE
-GER,Germany,FALSE
-GHA,Ghana,FALSE
-GRE,Greece,FALSE
-GRN,Grenada,FALSE
-GUA,Guatemala,FALSE
-GUM,Guam,FALSE
-GUY,Guyana,FALSE
-HAI,Haiti,FALSE
-HKG,China,FALSE
-HON,Honduras,FALSE
-HUN,Hungary,FALSE
-INA,Indonesia,FALSE
-IND,India,FALSE
-IOA,Individual Olympic Athletes,FALSE
-IRI,Iran,FALSE
-IRL,Ireland,FALSE
-IRQ,Iraq,FALSE
-ISL,Iceland,FALSE
-ISR,Israel,FALSE
-ISV,"Virgin Islands, US",FALSE
-ITA,Italy,FALSE
-IVB,"Virgin Islands, British",FALSE
-JAM,Jamaica,FALSE
-JOR,Jordan,FALSE
-JPN,Japan,FALSE
-KAZ,Kazakhstan,FALSE
-KEN,Kenya,FALSE
-KGZ,Kyrgyzstan,FALSE
-KIR,Kiribati,FALSE
-KOR,South Korea,FALSE
-KOS,Kosovo,FALSE
-KSA,Saudi Arabia,FALSE
-KUW,Kuwait,FALSE
-LAO,Laos,FALSE
-LAT,Latvia,FALSE
-LBA,Libya,FALSE
-LBR,Liberia,FALSE
-LCA,Saint Lucia,FALSE
-LES,Lesotho,FALSE
-LIB,Lebanon,FALSE
-LIE,Liechtenstein,FALSE
-LTU,Lithuania,FALSE
-LUX,Luxembourg,FALSE
-MAD,Madagascar,FALSE
-MAR,Morocco,FALSE
-MAS,Malaysia,FALSE
-MAW,Malawi,FALSE
-MDA,Moldova,FALSE
-MDV,Maldives,FALSE
-MEX,Mexico,FALSE
-MGL,Mongolia,FALSE
-MHL,Marshall Islands,FALSE
-MKD,Macedonia,FALSE
-MLI,Mali,FALSE
-MLT,Malta,FALSE
-MNE,Montenegro,FALSE
-MON,Monaco,FALSE
-MOZ,Mozambique,FALSE
-MRI,Mauritius,FALSE
-MTN,Mauritania,FALSE
-MYA,Myanmar,FALSE
-NAM,Namibia,FALSE
-NCA,Nicaragua,FALSE
-NED,Netherlands,FALSE
-NEP,Nepal,FALSE
-NFL,Canada,FALSE
-NGR,Nigeria,FALSE
-NIG,Niger,FALSE
-NOR,Norway,FALSE
-NRU,Nauru,FALSE
-NZL,New Zealand,FALSE
-OMA,Oman,FALSE
-PAK,Pakistan,FALSE
-PAN,Panama,FALSE
-PAR,Paraguay,FALSE
-PER,Peru,FALSE
-PHI,Philippines,FALSE
-PLE,Palestine,FALSE
-PLW,Palau,FALSE
-PNG,Papua New Guinea,FALSE
-POL,Poland,FALSE
-POR,Portugal,FALSE
-PRK,North Korea,FALSE
-PUR,Puerto Rico,FALSE
-QAT,Qatar,FALSE
-ROT,Refugee Olympic Team,FALSE
-ROU,Romania,FALSE
-RSA,South Africa,FALSE
-RUS,Russia,FALSE
-RWA,Rwanda,FALSE
-SAM,Samoa,FALSE
-SCG,Serbia and Montenegro,TRUE
-SEN,Senegal,FALSE
-SEY,Seychelles,FALSE
-SIN,Singapore,FALSE
-SKN,Saint Kitts,FALSE
-SLE,Sierra Leone,FALSE
-SLO,Slovenia,FALSE
-SMR,San Marino,FALSE
-SOL,Solomon Islands,FALSE
-SOM,Somalia,FALSE
-SRB,Serbia,FALSE
-SRI,Sri Lanka,FALSE
-SSD,South Sudan,FALSE
-STP,Sao Tome and Principe,FALSE
-SUD,Sudan,FALSE
-SUI,Switzerland,FALSE
-SUR,Suriname,FALSE
-SVK,Slovakia,FALSE
-SWE,Sweden,FALSE
-SWZ,Swaziland,FALSE
-SYR,Syria,FALSE
-TAN,Tanzania,FALSE
-TCH,Czechoslovakia,TRUE
-TGA,Tonga,FALSE
-THA,Thailand,FALSE
-TJK,Tajikistan,FALSE
-TKM,Turkmenistan,FALSE
-TLS,Timor-Leste,FALSE
-TOG,Togo,FALSE
-TPE,Taiwan,FALSE
-TTO,Trinidad,FALSE
-TUN,Tunisia,FALSE
-TUR,Turkey,FALSE
-TUV,Tuvalu,FALSE
-UAE,United Arab Emirates,FALSE
-UGA,Uganda,FALSE
-UKR,Ukraine,FALSE
-UNK,NA,FALSE
-URS,Soviet Union,TRUE
-URU,Uruguay,FALSE
-USA,USA,FALSE
-UZB,Uzbekistan,FALSE
-VAN,Vanuatu,FALSE
-VEN,Venezuela,FALSE
-VIE,Vietnam,FALSE
-VIN,Saint Vincent,FALSE
-VNM,South Vietnam,TRUE
-WIF,Trinidad,FALSE
-YEM,Yemen,FALSE
-YUG,Yugoslavia,TRUE
-ZAM,Zambia,FALSE
-ZIM,Zimbabwe,FALSE
+committee_code,region,historical
+AFG,Afghanistan,0
+AHO,Netherlands Antilles,1
+ALB,Albania,0
+ALG,Algeria,0
+AND,Andorra,0
+ANG,Angola,0
+ANT,Antigua,0
+ANZ,Australasia,1
+ARG,Argentina,0
+ARM,Armenia,0
+ARU,Aruba,0
+ASA,American Samoa,0
+AUS,Australia,0
+AUT,Austria,0
+AZE,Azerbaijan,0
+BAH,Bahamas,0
+BAN,Bangladesh,0
+BAR,Barbados,0
+BDI,Burundi,0
+BEL,Belgium,0
+BEN,Benin,0
+BER,Bermuda,0
+BHU,Bhutan,0
+BIH,Bosnia and Herzegovina,0
+BIZ,Belize,0
+BLR,Belarus,0
+BOH,Bohemia,1
+BOL,Boliva,0
+BOT,Botswana,0
+BRA,Brazil,0
+BRN,Bahrain,0
+BRU,Brunei,0
+BUL,Bulgaria,0
+BUR,Burkina Faso,0
+CAF,Central African Republic,0
+CAM,Cambodia,0
+CAN,Canada,0
+CAY,Cayman Islands,0
+CGO,Republic of Congo,0
+CHA,Chad,0
+CHI,Chile,0
+CHN,China,0
+CIV,Ivory Coast,0
+CMR,Cameroon,0
+COD,Democratic Republic of the Congo,0
+COK,Cook Islands,0
+COL,Colombia,0
+COM,Comoros,0
+CPV,Cape Verde,0
+CRC,Costa Rica,0
+CRO,Croatia,0
+CRT,Greece,0
+CUB,Cuba,0
+CYP,Cyprus,0
+CZE,Czech Republic,0
+DEN,Denmark,0
+DJI,Djibouti,0
+DMA,Dominica,0
+DOM,Dominican Republic,0
+ECU,Ecuador,0
+EGY,Egypt,0
+ERI,Eritrea,0
+ESA,El Salvador,0
+ESP,Spain,0
+EST,Estonia,0
+ETH,Ethiopia,0
+EUN,Unified Team,1
+FIJ,Fiji,0
+FIN,Finland,0
+FRA,France,0
+FRG,West Germany,1
+FSM,Micronesia,0
+GAB,Gabon,0
+GAM,Gambia,0
+GBR,UK,0
+GBS,Guinea-Bissau,0
+GDR,East Germany,1
+GEO,Georgia,0
+GEQ,Equatorial Guinea,0
+GER,Germany,0
+GHA,Ghana,0
+GRE,Greece,0
+GRN,Grenada,0
+GUA,Guatemala,0
+GUM,Guam,0
+GUY,Guyana,0
+HAI,Haiti,0
+HKG,China,0
+HON,Honduras,0
+HUN,Hungary,0
+INA,Indonesia,0
+IND,India,0
+IOA,Individual Olympic Athletes,0
+IRI,Iran,0
+IRL,Ireland,0
+IRQ,Iraq,0
+ISL,Iceland,0
+ISR,Israel,0
+ISV,Virgin Islands (US),0
+ITA,Italy,0
+IVB,Virgin Islands (British),0
+JAM,Jamaica,0
+JOR,Jordan,0
+JPN,Japan,0
+KAZ,Kazakhstan,0
+KEN,Kenya,0
+KGZ,Kyrgyzstan,0
+KIR,Kiribati,0
+KOR,South Korea,0
+KOS,Kosovo,0
+KSA,Saudi Arabia,0
+KUW,Kuwait,0
+LAO,Laos,0
+LAT,Latvia,0
+LBA,Libya,0
+LBR,Liberia,0
+LCA,Saint Lucia,0
+LES,Lesotho,0
+LIB,Lebanon,0
+LIE,Liechtenstein,0
+LTU,Lithuania,0
+LUX,Luxembourg,0
+MAD,Madagascar,0
+MAR,Morocco,0
+MAS,Malaysia,0
+MAW,Malawi,0
+MDA,Moldova,0
+MDV,Maldives,0
+MEX,Mexico,0
+MGL,Mongolia,0
+MHL,Marshall Islands,0
+MKD,Macedonia,0
+MLI,Mali,0
+MLT,Malta,0
+MNE,Montenegro,0
+MON,Monaco,0
+MOZ,Mozambique,0
+MRI,Mauritius,0
+MTN,Mauritania,0
+MYA,Myanmar,0
+NAM,Namibia,0
+NCA,Nicaragua,0
+NED,Netherlands,0
+NEP,Nepal,0
+NFL,Canada,0
+NGR,Nigeria,0
+NIG,Niger,0
+NOR,Norway,0
+NRU,Nauru,0
+NZL,New Zealand,0
+OMA,Oman,0
+PAK,Pakistan,0
+PAN,Panama,0
+PAR,Paraguay,0
+PER,Peru,0
+PHI,Philippines,0
+PLE,Palestine,0
+PLW,Palau,0
+PNG,Papua New Guinea,0
+POL,Poland,0
+POR,Portugal,0
+PRK,North Korea,0
+PUR,Puerto Rico,0
+QAT,Qatar,0
+ROT,Refugee Olympic Team,0
+ROU,Romania,0
+RSA,South Africa,0
+RUS,Russia,0
+RWA,Rwanda,0
+SAM,Samoa,0
+SCG,Serbia and Montenegro,1
+SEN,Senegal,0
+SEY,Seychelles,0
+SIN,Singapore,0
+SKN,Saint Kitts,0
+SLE,Sierra Leone,0
+SLO,Slovenia,0
+SMR,San Marino,0
+SOL,Solomon Islands,0
+SOM,Somalia,0
+SRB,Serbia,0
+SRI,Sri Lanka,0
+SSD,South Sudan,0
+STP,Sao Tome and Principe,0
+SUD,Sudan,0
+SUI,Switzerland,0
+SUR,Suriname,0
+SVK,Slovakia,0
+SWE,Sweden,0
+SWZ,Swaziland,0
+SYR,Syria,0
+TAN,Tanzania,0
+TCH,Czechoslovakia,1
+TGA,Tonga,0
+THA,Thailand,0
+TJK,Tajikistan,0
+TKM,Turkmenistan,0
+TLS,Timor-Leste,0
+TOG,Togo,0
+TPE,Taiwan,0
+TTO,Trinidad,0
+TUN,Tunisia,0
+TUR,Turkey,0
+TUV,Tuvalu,0
+UAE,United Arab Emirates,0
+UGA,Uganda,0
+UKR,Ukraine,0
+UNK,NA,0
+URS,Soviet Union,1
+URU,Uruguay,0
+USA,USA,0
+UZB,Uzbekistan,0
+VAN,Vanuatu,0
+VEN,Venezuela,0
+VIE,Vietnam,0
+VIN,Saint Vincent,0
+VNM,South Vietnam,1
+WIF,Trinidad,0
+YEM,Yemen,0
+YUG,Yugoslavia,1
+ZAM,Zambia,0
+ZIM,Zimbabwe,0
