@@ -39,6 +39,7 @@ FIELDS TERMINATED BY ','
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
+
 -- Load results Table
 LOAD DATA LOCAL INFILE 'D:/Courses/Olympics Data EDA/modelled_data/results.csv'
 INTO TABLE results

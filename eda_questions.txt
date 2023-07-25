@@ -1,8 +1,8 @@
 1. Mention the total no of committees who participated in each olympics game?
-2. Which year saw the highest and lowest no of participation in olympics?
-3. Which committee has participated in all of the olympic games?
+2. Which olympic games saw the highest and lowest no of participation?
+3. Which committees have participated in all of the olympic games?
 4. Identify the sports played in all summer olympics.
-5. Which Sports were just played only once in the olympics?
+5. Which Sports were played only once in the olympics?
 6. Fetch the total no of sports played in each olympic games.
 7. Fetch details of the 5 oldest athletes to win a gold medal.
 8. Find the Ratio of male and female athletes participated in all olympic games.

@@ -19,35 +19,34 @@ games_id,year,season,host
 18,1952,Summer,Helsinki
 19,1952,Winter,Oslo
 20,1956,Winter,Cortina d'Ampezzo
-21,1956,Summer,Melbourne
-22,1956,Summer,Stockholm
-23,1960,Winter,Squaw Valley
-24,1960,Summer,Roma
-25,1964,Winter,Innsbruck
-26,1964,Summer,Tokyo
-27,1968,Summer,Mexico City
-28,1968,Winter,Grenoble
-29,1972,Summer,Munich
-30,1972,Winter,Sapporo
-31,1976,Summer,Montreal
-32,1976,Winter,Innsbruck
-33,1980,Winter,Lake Placid
-34,1980,Summer,Moskva
-35,1984,Winter,Sarajevo
-36,1984,Summer,Los Angeles
-37,1988,Winter,Calgary
-38,1988,Summer,Seoul
-39,1992,Summer,Barcelona
-40,1992,Winter,Albertville
-41,1994,Winter,Lillehammer
-42,1996,Summer,Atlanta
-43,1998,Winter,Nagano
-44,2000,Summer,Sydney
-45,2002,Winter,Salt Lake City
-46,2004,Summer,Athina
-47,2006,Winter,Torino
-48,2008,Summer,Beijing
-49,2010,Winter,Vancouver
-50,2012,Summer,London
-51,2014,Winter,Sochi
-52,2016,Summer,Rio de Janeiro
+21,1956,Summer,Melbourne / Stolkholm
+22,1960,Winter,Squaw Valley
+23,1960,Summer,Roma
+24,1964,Winter,Innsbruck
+25,1964,Summer,Tokyo
+26,1968,Summer,Mexico City
+27,1968,Winter,Grenoble
+28,1972,Summer,Munich
+29,1972,Winter,Sapporo
+30,1976,Summer,Montreal
+31,1976,Winter,Innsbruck
+32,1980,Winter,Lake Placid
+33,1980,Summer,Moskva
+34,1984,Winter,Sarajevo
+35,1984,Summer,Los Angeles
+36,1988,Winter,Calgary
+37,1988,Summer,Seoul
+38,1992,Summer,Barcelona
+39,1992,Winter,Albertville
+40,1994,Winter,Lillehammer
+41,1996,Summer,Atlanta
+42,1998,Winter,Nagano
+43,2000,Summer,Sydney
+44,2002,Winter,Salt Lake City
+45,2004,Summer,Athina
+46,2006,Winter,Torino
+47,2008,Summer,Beijing
+48,2010,Winter,Vancouver
+49,2012,Summer,London
+50,2014,Winter,Sochi
+51,2016,Summer,Rio de Janeiro
