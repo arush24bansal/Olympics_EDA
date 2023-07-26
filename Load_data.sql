@@ -15,28 +15,28 @@ SET GLOBAL local_infile = 'ON';
 LOAD DATA LOCAL INFILE 'D:/Courses/Olympics Data EDA/modelled_data/games.csv'
 INTO TABLE games
 FIELDS TERMINATED BY ','
-LINES TERMINATED BY '\n'
+LINES TERMINATED BY '\r\n'
 IGNORE 1 ROWS;
 
 -- Load Events Table
 LOAD DATA LOCAL INFILE 'D:/Courses/Olympics Data EDA/modelled_data/events.csv'
 INTO TABLE `events`
 FIELDS TERMINATED BY ','
-LINES TERMINATED BY '\n'
+LINES TERMINATED BY '\r\n'
 IGNORE 1 ROWS;
 
 -- Load Committees Table
 LOAD DATA LOCAL INFILE 'D:/Courses/Olympics Data EDA/modelled_data/committees.csv'
 INTO TABLE committees
 FIELDS TERMINATED BY ','
-LINES TERMINATED BY '\n'
+LINES TERMINATED BY '\r\n'
 IGNORE 1 ROWS;
 
 -- Load athletes Table
 LOAD DATA LOCAL INFILE 'D:/Courses/Olympics Data EDA/modelled_data/athletes.csv'
 INTO TABLE athletes
 FIELDS TERMINATED BY ','
-LINES TERMINATED BY '\n'
+LINES TERMINATED BY '\r\n'
 IGNORE 1 ROWS;
 
 
@@ -44,6 +44,6 @@ IGNORE 1 ROWS;
 LOAD DATA LOCAL INFILE 'D:/Courses/Olympics Data EDA/modelled_data/results.csv'
 INTO TABLE results
 FIELDS TERMINATED BY ','
-LINES TERMINATED BY '\n'
+LINES TERMINATED BY '\r\n'
 IGNORE 1 ROWS
 (athlete_id, games_id, event_id, age, committee_code, medal);

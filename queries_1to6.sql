@@ -105,16 +105,18 @@ BEGIN
     ORDER BY sports DESC;
 END //
 
+DELIMITER ;
+
 /*================================= CALLS TO PROCEDURES ================================= */
 
 -- 1. Mention the total no of committees who participated in each olympics game?
--- CALL partcipation();
+-- CALL participation();
 
 -- 2. Which olympic games saw the highest and lowest no of participation?
 -- CALL participation_range();
 
 -- 3. Which committees have participated in all of the olympic games?
--- CALL prolific_partcipant();
+-- CALL prolific_participant();
 
 -- 4. Identify the sports played in all summer olympics.
 -- CALL popular_sport();
