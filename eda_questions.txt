@@ -10,8 +10,6 @@
 10. Fetch the athletes with the highest podium finishes (top 5 tallies).
 11. Fetch the top 5 most successful nations in olympics. Success is defined by no of medals won for events.
 12. List down total gold, silver and broze medals won by each region.
-13. List down total gold, silver and broze medals won by each country corresponding to each olympic games.
-14. Identify which committee won the most gold, most silver and most bronze medals in each olympic games.
-15. Identify which country won the most gold, most silver, most bronze medals and the most medals in each olympic games.
-16. Which committees have never won gold medal but have won silver/bronze medals?
-17. In which Sport has India won the highest number of medals.
+13. Identify which committee won the most gold, most silver, most bronze medals and the most medals in each olympic games.
+14. Which committees have never won gold medal but have won silver/bronze medals?
+15. In which Sport has India won the highest number of medals.
